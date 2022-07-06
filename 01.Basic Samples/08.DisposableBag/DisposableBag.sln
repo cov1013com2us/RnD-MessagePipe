@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableBag", "DisposableBag.csproj", "{2EAC9F48-21A0-44E8-AD71-D57802BF40A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAC9F48-21A0-44E8-AD71-D57802BF40A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAC9F48-21A0-44E8-AD71-D57802BF40A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAC9F48-21A0-44E8-AD71-D57802BF40A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAC9F48-21A0-44E8-AD71-D57802BF40A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F41EA622-B34B-4A00-9DBB-869C7D950A5F}
+	EndGlobalSection
+EndGlobal
